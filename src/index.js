@@ -1,13 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import Hello from "./Hello";
 import "tachyons";
 import * as serviceWorker from "./serviceWorker";
 
+import "./index.css";
+
+import App from "./containers/App";
+
 ReactDOM.render(
   <React.StrictMode>
-    <Hello greetings="Good morning" />
+    <>
+      <App />
+    </>
   </React.StrictMode>,
   document.getElementById("root")
 );
