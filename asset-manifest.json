@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/RoboFriends/static/css/main.9252e209.chunk.css",
-    "main.js": "/RoboFriends/static/js/main.f9e771e7.chunk.js",
-    "main.js.map": "/RoboFriends/static/js/main.f9e771e7.chunk.js.map",
-    "runtime-main.js": "/RoboFriends/static/js/runtime-main.7cecb56b.js",
-    "runtime-main.js.map": "/RoboFriends/static/js/runtime-main.7cecb56b.js.map",
-    "static/css/2.66b7f74f.chunk.css": "/RoboFriends/static/css/2.66b7f74f.chunk.css",
-    "static/js/2.fad0920a.chunk.js": "/RoboFriends/static/js/2.fad0920a.chunk.js",
-    "static/js/2.fad0920a.chunk.js.map": "/RoboFriends/static/js/2.fad0920a.chunk.js.map",
-    "index.html": "/RoboFriends/index.html",
-    "precache-manifest.9a790ca9c5f5c85957ded390ba98ad65.js": "/RoboFriends/precache-manifest.9a790ca9c5f5c85957ded390ba98ad65.js",
-    "service-worker.js": "/RoboFriends/service-worker.js",
-    "static/css/2.66b7f74f.chunk.css.map": "/RoboFriends/static/css/2.66b7f74f.chunk.css.map",
-    "static/css/main.9252e209.chunk.css.map": "/RoboFriends/static/css/main.9252e209.chunk.css.map",
-    "static/js/2.fad0920a.chunk.js.LICENSE.txt": "/RoboFriends/static/js/2.fad0920a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/RoboFriends/static/media/CocogooseProRegular.2ca6cac9.woff",
-    "static/media/index.css": "/RoboFriends/static/media/bg.6bd85f4b.jpg"
+    "main.css": "/static/css/main.1f1c2945.chunk.css",
+    "main.js": "/static/js/main.52ded5e7.chunk.js",
+    "main.js.map": "/static/js/main.52ded5e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a210e4d1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a210e4d1.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.fad0920a.chunk.js": "/static/js/2.fad0920a.chunk.js",
+    "static/js/2.fad0920a.chunk.js.map": "/static/js/2.fad0920a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.64352d46f577fb368026572152ff6b60.js": "/precache-manifest.64352d46f577fb368026572152ff6b60.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.1f1c2945.chunk.css.map": "/static/css/main.1f1c2945.chunk.css.map",
+    "static/js/2.fad0920a.chunk.js.LICENSE.txt": "/static/js/2.fad0920a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/CocogooseProRegular.2ca6cac9.woff",
+    "static/media/index.css": "/static/media/bg.6bd85f4b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cecb56b.js",
+    "static/js/runtime-main.a210e4d1.js",
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.fad0920a.chunk.js",
-    "static/css/main.9252e209.chunk.css",
-    "static/js/main.f9e771e7.chunk.js"
+    "static/css/main.1f1c2945.chunk.css",
+    "static/js/main.52ded5e7.chunk.js"
   ]
 }
